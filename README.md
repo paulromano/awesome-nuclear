@@ -41,6 +41,7 @@ A curated list of open source projects used in nuclear science and engineering.
 ## Thermal Hydraulics
 
 - [Nek5000](https://github.com/Nek5000/Nek5000) — Spectral-element CFD code
+- [OpenFOAM](https://www.openfoam.com/) — Finite volume CFD code
 
 ## Multiphysics
 
