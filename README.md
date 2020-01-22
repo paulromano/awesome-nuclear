@@ -24,6 +24,7 @@ A curated list of open source projects used in nuclear science and engineering.
 
 ## Nuclear Data
 
+- [EMPIRE](https://www-nds.iaea.org/empire/index.html) — Nuclear reaction model code
 - [FRENDY](https://rpg.jaea.go.jp/main/en/program_frendy) — Nuclear data processing
 - [FUDGE](https://github.com/LLNL/fudge) — Python-based nuclear data processing
 - [NJOY21](https://github.com/njoy/NJOY21) — Nuclear data processing
