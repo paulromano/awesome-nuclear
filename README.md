@@ -63,12 +63,12 @@ A curated list of open source projects used in nuclear science and engineering.
 
 - [moltres](https://github.com/arfc/moltres) — A molten salt reactor simulator code
 
-## Advanced Reactor and Fuel Cycle Research Group
-
-- [ARFC](https://github.com/arfc) — A research group focused on modeling and simulation of advanced nuclear reactors and fuel cycles
-
 ## Other
 
 - [PyNE](https://github.com/pyne/pyne) — Python/C++ nuclear engineering toolkit
 - [ARMI](https://github.com/terrapower/armi) — Reactor analysis automation framework
 - [LaTeX classes and BibTeX style for ANS publications](https://github.com/paulromano/ans-latex-class)
+
+## Research Groups Invested in Open Source Tools for Nuclear Science and Engineering
+
+- [ARFC](https://github.com/arfc) — A research group focused on modeling and simulation of advanced nuclear reactors and fuel cycles
