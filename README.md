@@ -13,7 +13,8 @@ A curated list of open source projects used in nuclear science and engineering.
 - [Dragon](https://www.polymtl.ca/merlin/) — Lattice code developed by Polytechnique Montreal
 - [OpenMC](https://github.com/openmc-dev/openmc) — Monte Carlo neutron/photon transport code
 - [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
-- [Warp](https://github.com/weft/warp) - Monte Carlo neutron transport code on GPUs
+- [Warp](https://github.com/weft/warp) — Monte Carlo neutron transport code on GPUs
+- [Geant4](https://geant4.web.cern.ch/) — High-energy particle transport code
 
 ### Related Tools
 
