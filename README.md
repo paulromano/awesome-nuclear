@@ -40,6 +40,7 @@ A curated list of open source projects used in nuclear science and engineering.
 
 - [PyRK](https://github.com/pyrk/pyrk) — Neutronic and thermal
   hydraulic reactor transient analysis in 0-D
+- [ADPRES](https://github.com/imronuke/ADPRES) — Neutron diffusion equation based nuclear reactor simulator and core analysis tool
 
 ## Fuel Cycle
 
@@ -49,12 +50,17 @@ A curated list of open source projects used in nuclear science and engineering.
 
 - [Nek5000](https://github.com/Nek5000/Nek5000) — Spectral-element CFD code
 - [OpenFOAM](https://www.openfoam.com/) — Finite volume CFD code
+- [nekRS](https://github.com/Nek5000/nekRS) — MPI+X hybrid parallelism Spectral-element CFD code supporting CPU, CUDA, HIP and OpenCL
 
 ## Multiphysics
 
 - [MOOSE](https://github.com/idaholab/moose) — Finite-element, multiphysics framework
 - [Okapi](https://github.com/aprilnovak/okapi) — OpenMC wrapped as a MOOSE app
 - [ENRICO](https://github.com/enrico-dev/enrico) — Monte Carlo + CFD coupling application
+
+## Molten Salt Reactor
+
+- [moltres](https://github.com/arfc/moltres) — A molten salt reactor simulator code
 
 ## Other
 
