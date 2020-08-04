@@ -36,6 +36,11 @@ A curated list of open source projects used in nuclear science and engineering.
 - [ALARA](https://github.com/svalinn/ALARA) — Activation code widely used for fusion
 - [ONIX](https://github.com/jlanversin/ONIX) — Python-based burnup code
 
+## Kinetics
+
+- [PyRK](https://github.com/pyrk/pyrk) — Neutronic and thermal
+  hydraulic reactor transient analysis in 0-D
+
 ## Fuel Cycle
 
 - [Cyclus](https://github.com/cyclus/cyclus) — Nuclear fuel cycle simulator
