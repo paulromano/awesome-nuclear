@@ -11,10 +11,10 @@ A curated list of open source projects used in nuclear science and engineering.
 
 - [BART](https://github.com/SlaybaughLab/BART) — Finite-element, discrete ordinates code developed by UC-Berkeley
 - [Dragon](https://www.polymtl.ca/merlin/) — Lattice code developed by Polytechnique Montreal
+- [Geant4](https://geant4.web.cern.ch/) — High-energy Monte Carlo particle transport code
 - [OpenMC](https://github.com/openmc-dev/openmc) — Monte Carlo neutron/photon transport code
 - [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
 - [Warp](https://github.com/weft/warp) — Monte Carlo neutron transport code on GPUs
-- [Geant4](https://geant4.web.cern.ch/) — High-energy particle transport code
 
 ### Related Tools
 
@@ -39,9 +39,8 @@ A curated list of open source projects used in nuclear science and engineering.
 
 ## Kinetics
 
-- [PyRK](https://github.com/pyrk/pyrk) — Neutronic and thermal
-  hydraulic reactor transient analysis in 0-D
 - [ADPRES](https://github.com/imronuke/ADPRES) — Neutron diffusion equation based nuclear reactor simulator and core analysis tool
+- [PyRK](https://github.com/pyrk/pyrk) — Neutronic and thermal hydraulic reactor transient analysis in 0-D
 
 ## Fuel Cycle
 
@@ -50,14 +49,14 @@ A curated list of open source projects used in nuclear science and engineering.
 ## Thermal Hydraulics
 
 - [Nek5000](https://github.com/Nek5000/Nek5000) — Spectral-element CFD code
+- [nekRS](https://github.com/Nek5000/nekRS) — Spectral-element CFD code targeting modern processors and accelerators
 - [OpenFOAM](https://www.openfoam.com/) — Finite volume CFD code
-- [nekRS](https://github.com/Nek5000/nekRS) — MPI+X hybrid parallelism Spectral-element CFD code supporting CPU, CUDA, HIP and OpenCL
 
 ## Multiphysics
 
+- [ENRICO](https://github.com/enrico-dev/enrico) — Monte Carlo + CFD coupling application
 - [MOOSE](https://github.com/idaholab/moose) — Finite-element, multiphysics framework
 - [Okapi](https://github.com/aprilnovak/okapi) — OpenMC wrapped as a MOOSE app
-- [ENRICO](https://github.com/enrico-dev/enrico) — Monte Carlo + CFD coupling application
 
 ## Molten Salt Reactor
 
@@ -71,4 +70,6 @@ A curated list of open source projects used in nuclear science and engineering.
 
 ## Research Groups Invested in Open Source Tools for Nuclear Science and Engineering
 
-- [ARFC](https://github.com/arfc) — A research group focused on modeling and simulation of advanced nuclear reactors and fuel cycles
+- [ARFC](https://arfc.github.io) (UIUC) — Advanced Reactors and Fuel Cycles
+- [CNERG](http://cnerg.github.io) (UW-Madison) — Computational Nuclear Engineering Research Group
+- [CRPG](https://crpg.mit.edu) (MIT) — Computational Reactor Physics Group
