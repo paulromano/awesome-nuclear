@@ -13,7 +13,8 @@ A curated list of open source projects used in nuclear science and engineering.
 - [Dragon](https://www.polymtl.ca/merlin/) — Lattice code developed by Polytechnique Montreal
 - [OpenMC](https://github.com/openmc-dev/openmc) — Monte Carlo neutron/photon transport code
 - [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
-- [Warp](https://github.com/weft/warp) - Monte Carlo neutron transport code on GPUs
+- [Warp](https://github.com/weft/warp) — Monte Carlo neutron transport code on GPUs
+- [Geant4](https://geant4.web.cern.ch/) — High-energy particle transport code
 
 ### Related Tools
 
@@ -40,6 +41,7 @@ A curated list of open source projects used in nuclear science and engineering.
 
 - [PyRK](https://github.com/pyrk/pyrk) — Neutronic and thermal
   hydraulic reactor transient analysis in 0-D
+- [ADPRES](https://github.com/imronuke/ADPRES) — Neutron diffusion equation based nuclear reactor simulator and core analysis tool
 
 ## Fuel Cycle
 
@@ -49,6 +51,7 @@ A curated list of open source projects used in nuclear science and engineering.
 
 - [Nek5000](https://github.com/Nek5000/Nek5000) — Spectral-element CFD code
 - [OpenFOAM](https://www.openfoam.com/) — Finite volume CFD code
+- [nekRS](https://github.com/Nek5000/nekRS) — MPI+X hybrid parallelism Spectral-element CFD code supporting CPU, CUDA, HIP and OpenCL
 
 ## Multiphysics
 
@@ -56,8 +59,16 @@ A curated list of open source projects used in nuclear science and engineering.
 - [Okapi](https://github.com/aprilnovak/okapi) — OpenMC wrapped as a MOOSE app
 - [ENRICO](https://github.com/enrico-dev/enrico) — Monte Carlo + CFD coupling application
 
+## Molten Salt Reactor
+
+- [moltres](https://github.com/arfc/moltres) — A molten salt reactor simulator code
+
 ## Other
 
 - [PyNE](https://github.com/pyne/pyne) — Python/C++ nuclear engineering toolkit
 - [ARMI](https://github.com/terrapower/armi) — Reactor analysis automation framework
 - [LaTeX classes and BibTeX style for ANS publications](https://github.com/paulromano/ans-latex-class)
+
+## Research Groups Invested in Open Source Tools for Nuclear Science and Engineering
+
+- [ARFC](https://github.com/arfc) — A research group focused on modeling and simulation of advanced nuclear reactors and fuel cycles
