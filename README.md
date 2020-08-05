@@ -72,5 +72,5 @@ A curated list of open source projects used in nuclear science and engineering.
 ## Research Groups Invested in Open Source Tools for Nuclear Science and Engineering
 
 - [ARFC](https://arfc.github.io) (UIUC) — Advanced Reactors and Fuel Cycles
-- [CNERG](http://cnerg.github.io) (UW-Madison) — Computational Nuclear Engineering Research Group
+- [CNERG](https://cnerg.github.io) (UW-Madison) — Computational Nuclear Engineering Research Group
 - [CRPG](https://crpg.mit.edu) (MIT) — Computational Reactor Physics Group
