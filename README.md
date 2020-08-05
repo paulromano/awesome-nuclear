@@ -11,6 +11,7 @@ A curated list of open source projects used in nuclear science and engineering.
 
 - [BART](https://github.com/SlaybaughLab/BART) — Finite-element, discrete ordinates code developed by UC-Berkeley
 - [Dragon](https://www.polymtl.ca/merlin/) — Lattice code developed by Polytechnique Montreal
+- [FRENSIE](https://github.com/FRENSIE/FRENSIE) — Monte Carlo neutron/photon transport code
 - [Geant4](https://geant4.web.cern.ch/) — High-energy Monte Carlo particle transport code
 - [OpenMC](https://github.com/openmc-dev/openmc) — Monte Carlo neutron/photon transport code
 - [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
