@@ -58,6 +58,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [ENRICO](https://github.com/enrico-dev/enrico) — Monte Carlo + CFD coupling application
 - [MOOSE](https://github.com/idaholab/moose) — Finite-element, multiphysics framework
 - [Okapi](https://github.com/aprilnovak/okapi) — OpenMC wrapped as a MOOSE app
+- [SALOME](https://www.salome-platform.org) — Interoperability between CAD and multiphysics software
 
 ## Molten Salt Reactor
 
