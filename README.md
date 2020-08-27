@@ -32,6 +32,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [NJOY21](https://github.com/njoy/NJOY21) — Nuclear data processing
 - [PREPRO](https://www-nds.iaea.org/public/endf/prepro/) — Nuclear data processing
 - [SANDY](https://github.com/luca-fiorito-11/sandy) — Sampling tool for nuclear data
+- [PyNjoy 2012](https://www.polymtl.ca/merlin/pynjoy2012.htm) — Nuclear data processing
 
 ## Depletion / Transmutation
 
