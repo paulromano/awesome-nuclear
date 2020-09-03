@@ -13,6 +13,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [Dragon](https://www.polymtl.ca/merlin/) — Lattice code developed by Polytechnique Montreal
 - [ERGnrc](https://nrc-cnrc.github.io/EGSnrc/) — Monte Carlo photon/electron/positron transport code
 - [FRENSIE](https://github.com/FRENSIE/FRENSIE) — Monte Carlo neutron/photon transport code
+- [FREYA](https://nuclear.llnl.gov/simulation/main.html) — Fission event generator
 - [Geant4](https://geant4.web.cern.ch/) — High-energy Monte Carlo particle transport code
 - [OpenMC](https://github.com/openmc-dev/openmc) — Monte Carlo neutron/photon transport code
 - [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
@@ -32,8 +33,8 @@ A curated list of open source projects used in nuclear science and engineering.
 - [FUDGE](https://github.com/LLNL/fudge) — Python-based nuclear data processing
 - [NJOY21](https://github.com/njoy/NJOY21) — Nuclear data processing
 - [PREPRO](https://www-nds.iaea.org/public/endf/prepro/) — Nuclear data processing
-- [SANDY](https://github.com/luca-fiorito-11/sandy) — Sampling tool for nuclear data
 - [PyNjoy 2012](https://www.polymtl.ca/merlin/pynjoy2012.htm) — Nuclear data processing
+- [SANDY](https://github.com/luca-fiorito-11/sandy) — Sampling tool for nuclear data
 
 ## Depletion / Transmutation
 
