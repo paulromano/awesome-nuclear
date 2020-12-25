@@ -45,7 +45,7 @@ A curated list of open source projects used in nuclear science and engineering.
 
 ## Kinetics
 
-- [ADPRES](https://github.com/imronuke/ADPRES) — Neutron diffusion equation based nuclear reactor simulator and core analysis tool
+- [KOMODO](https://github.com/imronuke/KOMODO) — Open nuclear reactor simulator that solves the three-dimensional neutron diffusion equation using nodal methods.
 - [PyRK](https://github.com/pyrk/pyrk) — Neutronic and thermal hydraulic reactor transient analysis in 0-D
 
 ## Fuel Cycle
