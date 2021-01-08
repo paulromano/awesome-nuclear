@@ -80,3 +80,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [ARFC](https://arfc.github.io) (UIUC) — Advanced Reactors and Fuel Cycles
 - [CNERG](https://cnerg.github.io) (UW-Madison) — Computational Nuclear Engineering Research Group
 - [CRPG](https://crpg.mit.edu) (MIT) — Computational Reactor Physics Group
+- [ONCORE](https://nucleus.iaea.org/sites/oncore/) (IAEA) an IAEA-facilitated
+  international collaboration framework for the development and application of
+  open-source multi-physics simulation tools to support research, education and
+  training for the analysis of advanced nuclear power reactors.
