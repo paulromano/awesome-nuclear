@@ -18,6 +18,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [milonga](https://www.seamplex.com/milonga) — Finite-element and finite-volume, diffusion and discrete ordinates code
 - [OpenMC](https://github.com/openmc-dev/openmc) — Monte Carlo neutron/photon transport code
 - [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
+- [SCONE](https://bitbucket.org/Mikolaj_Adam_Kowalski/scone) — Monte Carlo neutron transport code
 - [Warp](https://github.com/weft/warp) — Monte Carlo neutron transport code on GPUs
 
 ### Related Tools
