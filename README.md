@@ -16,6 +16,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [FREYA](https://nuclear.llnl.gov/simulation/main.html) — Fission event generator
 - [Geant4](https://geant4.web.cern.ch/) — High-energy Monte Carlo particle transport code
 - [milonga](https://www.seamplex.com/milonga) — Finite-element and finite-volume, diffusion and discrete ordinates code
+- [NeutronTransport.jl](https://github.com/rvignolo/NeutronTransport.jl) — Method of characteristics code in Julia
 - [OpenMC](https://github.com/openmc-dev/openmc) — Monte Carlo neutron/photon transport code
 - [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
 - [SCONE](https://bitbucket.org/Mikolaj_Adam_Kowalski/scone) — Monte Carlo neutron transport code
