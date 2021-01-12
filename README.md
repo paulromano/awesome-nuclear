@@ -18,6 +18,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [milonga](https://www.seamplex.com/milonga) — Finite-element and finite-volume, diffusion and discrete ordinates code
 - [OpenMC](https://github.com/openmc-dev/openmc) — Monte Carlo neutron/photon transport code
 - [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
+- [SCONE](https://bitbucket.org/Mikolaj_Adam_Kowalski/scone) — Monte Carlo neutron transport code
 - [Warp](https://github.com/weft/warp) — Monte Carlo neutron transport code on GPUs
 
 ### Related Tools
@@ -36,7 +37,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [PREPRO](https://www-nds.iaea.org/public/endf/prepro/) — Nuclear data processing
 - [PyNjoy 2012](https://www.polymtl.ca/merlin/pynjoy2012.htm) — Nuclear data processing
 - [SANDY](https://github.com/luca-fiorito-11/sandy) — Sampling tool for nuclear data
-- [TALYS](https://tendl.web.psi.ch/tendl_2019/talys.html) — Nuclear Reaction Simulator Code
+- [TALYS](https://nds.iaea.org/talys) — Nuclear Reaction Simulator Code
 
 ## Depletion / Transmutation
 
@@ -45,7 +46,7 @@ A curated list of open source projects used in nuclear science and engineering.
 
 ## Kinetics
 
-- [ADPRES](https://github.com/imronuke/ADPRES) — Neutron diffusion equation based nuclear reactor simulator and core analysis tool
+- [KOMODO](https://github.com/imronuke/KOMODO) — Nuclear reactor simulator that solves 3-D diffusion using nodal methods
 - [PyRK](https://github.com/pyrk/pyrk) — Neutronic and thermal hydraulic reactor transient analysis in 0-D
 
 ## Fuel Cycle
@@ -80,3 +81,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [ARFC](https://arfc.github.io) (UIUC) — Advanced Reactors and Fuel Cycles
 - [CNERG](https://cnerg.github.io) (UW-Madison) — Computational Nuclear Engineering Research Group
 - [CRPG](https://crpg.mit.edu) (MIT) — Computational Reactor Physics Group
+- [ONCORE](https://nucleus.iaea.org/sites/oncore/) (IAEA) — an IAEA-facilitated
+  international collaboration framework for the development and application of
+  open-source multi-physics simulation tools to support research, education and
+  training for the analysis of advanced nuclear power reactors.
