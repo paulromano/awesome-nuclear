@@ -10,6 +10,7 @@ A curated list of open source projects used in nuclear science and engineering.
 ### Codes
 
 - [BART](https://github.com/SlaybaughLab/BART) — Finite-element, discrete ordinates code developed by UC-Berkeley
+- [CGMF](https://github.com/lanl/CGMF) — Fission event generator
 - [Dragon](https://www.polymtl.ca/merlin/) — Lattice code developed by Polytechnique Montreal
 - [ERGnrc](https://nrc-cnrc.github.io/EGSnrc/) — Monte Carlo photon/electron/positron transport code
 - [FRENSIE](https://github.com/FRENSIE/FRENSIE) — Monte Carlo neutron/photon transport code
