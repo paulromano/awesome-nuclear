@@ -36,11 +36,11 @@ A curated list of open source projects used in nuclear science and engineering.
 - [FRENDY](https://rpg.jaea.go.jp/main/en/program_frendy) — Nuclear data processing
 - [FUDGE](https://github.com/LLNL/fudge) — Python-based nuclear data processing
 - [NJOY21](https://github.com/njoy/NJOY21) — Nuclear data processing
+- [PapillonNDL](https://github.com/HunterBelanger/papillon-ndl) - C++ / Python library for reading and sampling ACE files
 - [PREPRO](https://www-nds.iaea.org/public/endf/prepro/) — Nuclear data processing
 - [PyNjoy 2012](https://www.polymtl.ca/merlin/pynjoy2012.htm) — Nuclear data processing
 - [SANDY](https://github.com/luca-fiorito-11/sandy) — Sampling tool for nuclear data
 - [TALYS](https://nds.iaea.org/talys) — Nuclear Reaction Simulator Code
-- [PapillonNDL](https://github.com/HunterBelanger/papillon-ndl) - C++ / Python library for reading and sampling ACE files
 
 ## Depletion / Transmutation
 
