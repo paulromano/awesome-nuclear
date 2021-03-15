@@ -39,6 +39,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [PyNjoy 2012](https://www.polymtl.ca/merlin/pynjoy2012.htm) — Nuclear data processing
 - [SANDY](https://github.com/luca-fiorito-11/sandy) — Sampling tool for nuclear data
 - [TALYS](https://nds.iaea.org/talys) — Nuclear Reaction Simulator Code
+- [PapillonNDL](https://github.com/HunterBelanger/papillon-ndl) - C++ / Python library for reading and sampling ACE files
 
 ## Depletion / Transmutation
 
