@@ -28,6 +28,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [csg2csg](https://github.com/makeclean/csg2csg) — Tool to translate between different CSG types
 - [DAGMC](https://github.com/svalinn/DAGMC) — Direct accelerated geometry Monte Carlo toolkit
 - [serpent-tools](https://github.com/CORE-GATECH-GROUP/serpent-tools) — Python-based tool suite for Serpent
+- [t4_geom_convert](https://www.cea.fr/energies/tripoli-4/tripoli-4/pre_post_tools/t4_geom_convert) — Convert MCNP geometries to TRIPOLI-4
 
 ## Nuclear Data
 
