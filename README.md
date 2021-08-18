@@ -59,6 +59,7 @@ A curated list of open source projects used in nuclear science and engineering.
 
 ## Thermal Hydraulics
 
+- [DASSH](https://github.com/dassh-dev/dassh) — Subchannel thermal fluids code for hexagonal assemblies
 - [Nek5000](https://github.com/Nek5000/Nek5000) — Spectral-element CFD code
 - [nekRS](https://github.com/Nek5000/nekRS) — Spectral-element CFD code targeting modern processors and accelerators
 - [OpenFOAM](https://www.openfoam.com/) — Finite volume CFD code
