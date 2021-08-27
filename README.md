@@ -11,7 +11,7 @@ A curated list of open source projects used in nuclear science and engineering.
 
 - [BART](https://github.com/SlaybaughLab/BART) — Finite-element, discrete ordinates code developed by UC-Berkeley
 - [CGMF](https://github.com/lanl/CGMF) — Fission event generator
-- [Dragon](https://www.polymtl.ca/merlin/) — Lattice code developed by Polytechnique Montreal
+- [DRAGON](https://www.polymtl.ca/merlin/) — Lattice code developed by Polytechnique Montreal
 - [ERGnrc](https://nrc-cnrc.github.io/EGSnrc/) — Monte Carlo photon/electron/positron transport code
 - [FRENSIE](https://github.com/FRENSIE/FRENSIE) — Monte Carlo neutron/photon transport code
 - [FREYA](https://nuclear.llnl.gov/simulation/main.html) — Fission event generator
@@ -67,6 +67,7 @@ A curated list of open source projects used in nuclear science and engineering.
 ## Multiphysics
 
 - [ENRICO](https://github.com/enrico-dev/enrico) — Monte Carlo + CFD coupling application
+- [Gen-Foam](https://gitlab.com/foam-for-nuclear/GeN-Foam) — OpenFOAM based multi-physics solver for reactor analysis
 - [MOOSE](https://github.com/idaholab/moose) — Finite-element, multiphysics framework
 - [Okapi](https://github.com/aprilnovak/okapi) — OpenMC wrapped as a MOOSE app
 - [SALOME](https://www.salome-platform.org) — Interoperability between CAD and multiphysics software
