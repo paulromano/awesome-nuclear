@@ -76,6 +76,7 @@ A curated list of open source projects used in nuclear science and engineering.
 ## Molten Salt Reactor
 
 - [Moltres](https://github.com/arfc/moltres) — A molten salt reactor simulator code
+- [SaltProc](https://github.com/arfc/saltproc) — Fuel reprocessing simulation tool
 
 ## Other
 
