@@ -37,6 +37,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [FRENDY](https://rpg.jaea.go.jp/main/en/program_frendy) — Nuclear data processing
 - [FUDGE](https://github.com/LLNL/fudge) — Python-based nuclear data processing
 - [NJOY21](https://github.com/njoy/NJOY21) — Nuclear data processing
+- [NucML](https://github.com/pedrojrv/nucml) — Machine-learning pipeline for nuclear data evaluation
 - [PapillonNDL](https://github.com/HunterBelanger/papillon-ndl) - C++ / Python library for reading and sampling ACE files
 - [PREPRO](https://www-nds.iaea.org/public/endf/prepro/) — Nuclear data processing
 - [PyNjoy 2012](https://www.polymtl.ca/merlin/pynjoy2012.htm) — Nuclear data processing
@@ -47,6 +48,7 @@ A curated list of open source projects used in nuclear science and engineering.
 
 - [ALARA](https://github.com/svalinn/ALARA) — Activation code widely used for fusion
 - [ONIX](https://github.com/jlanversin/ONIX) — Python-based burnup code
+- [OpenMC](https://github.com/openmc-dev/openmc) — Depetion solver integrated in OpenMC
 
 ## Kinetics
 
