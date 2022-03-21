@@ -38,23 +38,24 @@ A curated list of open source projects used in nuclear science and engineering.
 - [FUDGE](https://github.com/LLNL/fudge) — Python-based nuclear data processing
 - [NJOY21](https://github.com/njoy/NJOY21) — Nuclear data processing
 - [NucML](https://github.com/pedrojrv/nucml) — Machine-learning pipeline for nuclear data evaluation
-- [PapillonNDL](https://github.com/HunterBelanger/papillon-ndl) - C++ / Python library for reading and sampling ACE files
+- [PapillonNDL](https://github.com/HunterBelanger/papillon-ndl) — C++ / Python library for reading and sampling ACE files
 - [PREPRO](https://www-nds.iaea.org/public/endf/prepro/) — Nuclear data processing
 - [PyNjoy 2012](https://www.polymtl.ca/merlin/pynjoy2012.htm) — Nuclear data processing
 - [SANDY](https://github.com/luca-fiorito-11/sandy) — Sampling tool for nuclear data
 - [TALYS](https://nds.iaea.org/talys) — Nuclear Reaction Simulator Code
 
-## Depletion / Transmutation
+## Depletion / Transmutation / Decay
 
 - [ALARA](https://github.com/svalinn/ALARA) — Activation code widely used for fusion
 - [ONIX](https://github.com/jlanversin/ONIX) — Python-based burnup code
 - [OpenMC](https://github.com/openmc-dev/openmc) — Depetion solver integrated in OpenMC
+- [radioactivedecay](https://github.com/radioactivedecay/radioactivedecay) — Radioactive decay solver
 
 ## Kinetics
 
 - [KOMODO](https://github.com/imronuke/KOMODO) — Nuclear reactor simulator that solves 3-D diffusion using nodal methods
 - [PyRK](https://github.com/pyrk/pyrk) — Neutronic and thermal hydraulic reactor transient analysis in 0-D
-- [Research Reactor Simulator](https://github.com/ijs-f8/Research-Reactor-Simulator) - Real-time GUI research reactor simulator based on point kinetics
+- [Research Reactor Simulator](https://github.com/ijs-f8/Research-Reactor-Simulator) — Real-time GUI research reactor simulator based on point kinetics
 
 ## Fuel Cycle
 
@@ -69,7 +70,7 @@ A curated list of open source projects used in nuclear science and engineering.
 
 ## Multiphysics
 
-- [Aurora](https://github.com/aurora-multiphysics/aurora) - OpenMC wrapped as a MOOSE app
+- [Aurora](https://github.com/aurora-multiphysics/aurora) — OpenMC wrapped as a MOOSE app
 - [Cardinal](https://github.com/neams-th-coe/cardinal) — OpenMC and nekRS wrapped as MOOSE apps
 - [ENRICO](https://github.com/enrico-dev/enrico) — Monte Carlo + CFD coupling application
 - [Gen-Foam](https://gitlab.com/foam-for-nuclear/GeN-Foam) — OpenFOAM based multi-physics solver for reactor analysis
