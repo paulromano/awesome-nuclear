@@ -7,20 +7,26 @@ A curated list of open source projects used in nuclear science and engineering.
 
 ## Particle Transport
 
-### Codes
+### Codes: Monte Carlo
 
-- [BART](https://github.com/SlaybaughLab/BART) — Finite-element, discrete ordinates code developed by UC-Berkeley
-- [CGMF](https://github.com/lanl/CGMF) — Fission event generator
-- [DRAGON](https://www.polymtl.ca/merlin/) — Lattice code developed by Polytechnique Montreal
 - [ERGnrc](https://nrc-cnrc.github.io/EGSnrc/) — Monte Carlo photon/electron/positron transport code
 - [FRENSIE](https://github.com/FRENSIE/FRENSIE) — Monte Carlo neutron/photon transport code
-- [FREYA](https://nuclear.llnl.gov/simulation/main.html) — Fission event generator
 - [Geant4](https://geant4.web.cern.ch/) — High-energy Monte Carlo particle transport code
-- [milonga](https://www.seamplex.com/milonga) — Finite-element and finite-volume, diffusion and discrete ordinates code
 - [OpenMC](https://github.com/openmc-dev/openmc) — Monte Carlo neutron/photon transport code
-- [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
 - [SCONE](https://bitbucket.org/Mikolaj_Adam_Kowalski/scone) — Monte Carlo neutron transport code
 - [Warp](https://github.com/weft/warp) — Monte Carlo neutron transport code on GPUs
+
+### Codes: Deterministic
+
+- [BART](https://github.com/SlaybaughLab/BART) — Finite-element, discrete ordinates code developed by UC-Berkeley
+- [DRAGON](https://www.polymtl.ca/merlin/) — Lattice code developed by Polytechnique Montreal
+- [milonga](https://www.seamplex.com/milonga) — Finite-element and finite-volume, diffusion and discrete ordinates code
+- [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
+
+### Codes: Event Generators
+
+- [CGMF](https://github.com/lanl/CGMF) — Fission event generator
+- [FREYA](https://nuclear.llnl.gov/simulation/main.html) — Fission event generator
 
 ### Related Tools
 
