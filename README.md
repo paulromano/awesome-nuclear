@@ -33,6 +33,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [ACE Format](https://github.com/NuclearData/ACEFormat) — Documentation of the ACE format
 - [csg2csg](https://github.com/makeclean/csg2csg) — Tool to translate between different CSG types
 - [DAGMC](https://github.com/svalinn/DAGMC) — Direct accelerated geometry Monte Carlo toolkit
+- [MCPL](https://github.com/mctools/mcpl) — Binary file format for storing particle state
 - [serpent-tools](https://github.com/CORE-GATECH-GROUP/serpent-tools) — Python-based tool suite for Serpent
 - [t4_geom_convert](https://www.cea.fr/energies/tripoli-4/tripoli-4/pre_post_tools/t4_geom_convert) — Convert MCNP geometries to TRIPOLI-4
 
@@ -42,6 +43,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [EMPIRE](https://www-nds.iaea.org/empire/index.html) — Nuclear reaction model code
 - [FRENDY](https://rpg.jaea.go.jp/main/en/program_frendy) — Nuclear data processing
 - [FUDGE](https://github.com/LLNL/fudge) — Python-based nuclear data processing
+- [JADE](https://github.com/dodu94/JADE) — Tool for nuclear data library V&V
 - [NJOY21](https://github.com/njoy/NJOY21) — Nuclear data processing
 - [NucML](https://github.com/pedrojrv/nucml) — Machine-learning pipeline for nuclear data evaluation
 - [PapillonNDL](https://github.com/HunterBelanger/papillon-ndl) — C++ / Python library for reading and sampling ACE files
