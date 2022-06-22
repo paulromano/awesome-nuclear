@@ -76,6 +76,11 @@ A curated list of open source projects used in nuclear science and engineering.
 - [nekRS](https://github.com/Nek5000/nekRS) — Spectral-element CFD code targeting modern processors and accelerators
 - [OpenFOAM](https://www.openfoam.com/) — Finite volume CFD code
 
+## Fuel Performance
+
+- [SCIANTIX](https://gitlab.com/poliminrg/sciantix) — A fission gas release code for
+  oxide fuels
+
 ## Multiphysics
 
 - [Aurora](https://github.com/aurora-multiphysics/aurora) — OpenMC wrapped as a MOOSE app
