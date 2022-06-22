@@ -75,6 +75,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [Nek5000](https://github.com/Nek5000/Nek5000) — Spectral-element CFD code
 - [nekRS](https://github.com/Nek5000/nekRS) — Spectral-element CFD code targeting modern processors and accelerators
 - [OpenFOAM](https://www.openfoam.com/) — Finite volume CFD code
+- [TrioCFD](https://github.com/cea-trust-platform/TrioCFD-code) — A Computational Fluid Dynamics (CFD) code based on the TRUST platform. 
 
 ## Multiphysics
 
@@ -84,6 +85,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [Gen-Foam](https://gitlab.com/foam-for-nuclear/GeN-Foam) — OpenFOAM based multi-physics solver for reactor analysis
 - [MOOSE](https://github.com/idaholab/moose) — Finite-element, multiphysics framework
 - [SALOME](https://www.salome-platform.org) — Interoperability between CAD and multiphysics software
+- [TRUST](https://github.com/cea-trust-platform/trust-code) — A software platform upon which CFD codes can be built
 
 ## Molten Salt Reactor
 
