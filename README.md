@@ -79,7 +79,7 @@ A curated list of open source projects used in nuclear science and engineering.
 ## Fuel Performance
 
 - [SCIANTIX](https://gitlab.com/poliminrg/sciantix) — A fission gas release code for
-  oxide fuels
+  oxide fuels (\*Gitlab account required to access)
 
 ## Multiphysics
 
