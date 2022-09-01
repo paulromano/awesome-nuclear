@@ -13,7 +13,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [FRENSIE](https://github.com/FRENSIE/FRENSIE) — Monte Carlo neutron/photon transport code
 - [Geant4](https://geant4.web.cern.ch/) — High-energy Monte Carlo particle transport code
 - [OpenMC](https://github.com/openmc-dev/openmc) — Monte Carlo neutron/photon transport code
-- [SCONE](https://bitbucket.org/Mikolaj_Adam_Kowalski/scone) — Monte Carlo neutron transport code
+- [SCONE](https://github.com/CambridgeNuclear/SCONE) — Monte Carlo neutron transport code
 - [Warp](https://github.com/weft/warp) — Monte Carlo neutron transport code on GPUs
 
 ### Codes: Deterministic
