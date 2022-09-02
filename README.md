@@ -98,6 +98,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [ARMI](https://github.com/terrapower/armi) — Reactor analysis automation framework
 - [NRIC Virtual Test Bed](https://github.com/idaholab/virtual_test_bed) — Repository of example challenge problems
 - [PyNE](https://github.com/pyne/pyne) — Python/C++ nuclear engineering toolkit
+- [WATTS](https://github.com/watts-dev/watts) — Python-based tool for templated simulations
 - [LaTeX classes and BibTeX style for ANS publications](https://github.com/paulromano/ans-latex-class)
 
 ## Research Groups Invested in Open Source Tools for Nuclear Science and Engineering
