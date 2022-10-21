@@ -37,6 +37,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [MCPL](https://github.com/mctools/mcpl) — Binary file format for storing particle state
 - [serpentTools](https://github.com/CORE-GATECH-GROUP/serpent-tools) — Python-based tool suite for Serpent
 - [t4_geom_convert](https://www.cea.fr/energies/tripoli-4/tripoli-4/pre_post_tools/t4_geom_convert) — Convert MCNP geometries to TRIPOLI-4
+- [McCAD](https://github.com/inr-kit/McCAD-Library) — CAD (BRep) to Monte Carlo (CSG) Conversion Tool
 
 ## Nuclear Data
 
