@@ -56,6 +56,7 @@ A curated list of open source projects used in nuclear science and engineering.
 
 ## Depletion / Transmutation / Decay
 
+- [ADDER](https://github.com/anl-rtr/adder) — Python-based fuel management and depletion tool
 - [ALARA](https://github.com/svalinn/ALARA) — Activation code widely used for fusion
 - [ONIX](https://github.com/jlanversin/ONIX) — Python-based burnup code
 - [OpenMC](https://github.com/openmc-dev/openmc) — Depetion solver integrated in OpenMC
