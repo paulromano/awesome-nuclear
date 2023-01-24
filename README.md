@@ -19,6 +19,7 @@ A curated list of open source projects used in nuclear science and engineering.
 ### Codes: Deterministic
 
 - [BART](https://github.com/SlaybaughLab/BART) — Finite-element, discrete ordinates code developed by UC-Berkeley
+- [Chi-Tech](https://github.com/chi-tech/chi-tech) — Parallel discrete ordinates code developed by Texas A&M
 - [DRAGON](https://www.polymtl.ca/merlin/) — Lattice code developed by Polytechnique Montreal
 - [milonga](https://www.seamplex.com/milonga) — Finite-element and finite-volume, diffusion and discrete ordinates code
 - [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
@@ -78,7 +79,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [Nek5000](https://github.com/Nek5000/Nek5000) — Spectral-element CFD code
 - [nekRS](https://github.com/Nek5000/nekRS) — Spectral-element CFD code targeting modern processors and accelerators
 - [OpenFOAM](https://www.openfoam.com/) — Finite volume CFD code
-- [TrioCFD](https://github.com/cea-trust-platform/TrioCFD-code) — A Computational Fluid Dynamics (CFD) code based on the TRUST platform. 
+- [TrioCFD](https://github.com/cea-trust-platform/TrioCFD-code) — A Computational Fluid Dynamics (CFD) code based on the TRUST platform.
 
 ## Multiphysics
 
