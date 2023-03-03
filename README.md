@@ -53,6 +53,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [PREPRO](https://www-nds.iaea.org/public/endf/prepro/) — Nuclear data processing
 - [PyNjoy 2012](https://www.polymtl.ca/merlin/pynjoy2012.htm) — Nuclear data processing
 - [SANDY](https://github.com/luca-fiorito-11/sandy) — Sampling tool for nuclear data
+- [SCALE](https://code.ornl.gov/scale/code/scale-public) — Public components of SCALE (AMPX, SAMMY)
 - [TALYS](https://nds.iaea.org/talys) — Nuclear Reaction Simulator Code
 
 ## Depletion / Transmutation / Decay
