@@ -44,7 +44,7 @@ A curated list of open source projects used in nuclear science and engineering.
 
 - [ACEMAKER](https://github.com/iaea-nds/acemaker) — Code package to produce ACE files
 - [EMPIRE](https://www-nds.iaea.org/empire/index.html) — Nuclear reaction model code
-- [endf-python](https://github.com/paulromano/endf-python) - Python ENDF Parser
+- [endf-python](https://github.com/paulromano/endf-python) — Python ENDF Parser
 - [FRENDY](https://rpg.jaea.go.jp/main/en/program_frendy) — Nuclear data processing
 - [FUDGE](https://github.com/LLNL/fudge) — Python-based nuclear data processing
 - [JADE](https://github.com/dodu94/JADE) — Tool for nuclear data library V&V
