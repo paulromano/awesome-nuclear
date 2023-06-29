@@ -56,6 +56,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [SANDY](https://github.com/luca-fiorito-11/sandy) — Sampling tool for nuclear data
 - [SCALE](https://code.ornl.gov/scale/code/scale-public) — Public components of SCALE (AMPX, SAMMY)
 - [TALYS](https://nds.iaea.org/talys) — Nuclear Reaction Simulator Code
+- [Nuclear Data Reader](https://github.com/php1ic/nuclear-data-reader) - C++ library for parsing NUBASE and AME data files
 
 ## Depletion / Transmutation / Decay
 
