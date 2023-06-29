@@ -48,6 +48,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [FRENDY](https://rpg.jaea.go.jp/main/en/program_frendy) — Nuclear data processing
 - [FUDGE](https://github.com/LLNL/fudge) — Python-based nuclear data processing
 - [JADE](https://github.com/dodu94/JADE) — Tool for nuclear data library V&V
+- [mendeleev](https://github.com/lmmentel/mendeleev) — Python package for accessing properties of elements, ions, and isotopes
 - [NJOY21](https://github.com/njoy/NJOY21) — Nuclear data processing
 - [Nuclear Data Reader](https://github.com/php1ic/nuclear-data-reader) — C++ library for parsing NUBASE and AME data files
 - [NucML](https://github.com/pedrojrv/nucml) — Machine-learning pipeline for nuclear data evaluation
