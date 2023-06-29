@@ -49,6 +49,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [FUDGE](https://github.com/LLNL/fudge) — Python-based nuclear data processing
 - [JADE](https://github.com/dodu94/JADE) — Tool for nuclear data library V&V
 - [NJOY21](https://github.com/njoy/NJOY21) — Nuclear data processing
+- [Nuclear Data Reader](https://github.com/php1ic/nuclear-data-reader) — C++ library for parsing NUBASE and AME data files
 - [NucML](https://github.com/pedrojrv/nucml) — Machine-learning pipeline for nuclear data evaluation
 - [PapillonNDL](https://github.com/HunterBelanger/papillon-ndl) — C++ / Python library for reading and sampling ACE files
 - [PREPRO](https://www-nds.iaea.org/public/endf/prepro/) — Nuclear data processing
@@ -56,7 +57,6 @@ A curated list of open source projects used in nuclear science and engineering.
 - [SANDY](https://github.com/luca-fiorito-11/sandy) — Sampling tool for nuclear data
 - [SCALE](https://code.ornl.gov/scale/code/scale-public) — Public components of SCALE (AMPX, SAMMY)
 - [TALYS](https://nds.iaea.org/talys) — Nuclear Reaction Simulator Code
-- [Nuclear Data Reader](https://github.com/php1ic/nuclear-data-reader) - C++ library for parsing NUBASE and AME data files
 
 ## Depletion / Transmutation / Decay
 
