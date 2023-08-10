@@ -34,6 +34,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [ACE Format](https://github.com/NuclearData/ACEFormat) — Documentation of the ACE format
 - [csg2csg](https://github.com/makeclean/csg2csg) — Tool to translate between different CSG types
 - [DAGMC](https://github.com/svalinn/DAGMC) — Direct accelerated geometry Monte Carlo toolkit
+- [KDSource](https://github.com/KDSource/KDSource) - A tool for generating KDE surface sources from Monte Carlo simulations
 - [McCAD](https://github.com/inr-kit/McCAD-Library) — CAD (BRep) to Monte Carlo (CSG) Conversion Tool
 - [MCNPTools](https://github.com/lanl/mcnptools) — C++/Python interface and tools for MCNP
 - [MCPL](https://github.com/mctools/mcpl) — Binary file format for storing particle state
