@@ -20,6 +20,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [csg2csg](https://github.com/makeclean/csg2csg) — Tool to translate between different CSG types
 - [DAGMC](https://github.com/svalinn/DAGMC) — Direct accelerated geometry Monte Carlo toolkit
 - [serpent-tools](https://github.com/CORE-GATECH-GROUP/serpent-tools) — Python-based tool suite for Serpent
+- [KDSource](https://github.com/KDSource/KDSource) - A tool for generating KDE surface sources from Monte Carlo simulations
 
 ## Nuclear Data
 
