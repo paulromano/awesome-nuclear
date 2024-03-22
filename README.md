@@ -21,7 +21,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [BART](https://github.com/SlaybaughLab/BART) — Finite-element, discrete ordinates code developed by UC-Berkeley
 - [Chi-Tech](https://github.com/chi-tech/chi-tech) — Parallel discrete ordinates code developed by Texas A&M
 - [DRAGON](https://www.polymtl.ca/merlin/) — Lattice code developed by Polytechnique Montreal
-- [milonga](https://www.seamplex.com/milonga) — Finite-element and finite-volume, diffusion and discrete ordinates code
+- [FeenoX](https://www.seamplex.com/feenox) — Unstructured finite-element(ish) tool, diffusion and discrete ordinates
 - [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
 
 ### Codes: Event Generators
