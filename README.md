@@ -72,6 +72,7 @@ A curated list of open source projects used in nuclear science and engineering.
 ## Kinetics
 
 - [KOMODO](https://github.com/imronuke/KOMODO) — Nuclear reactor simulator that solves 3-D diffusion using nodal methods
+- [msrDynamics](https://github.com/LukeLabrie/msrDynamics) — Python API to DDE solver for dynamic modeling of MSRs
 - [PyRK](https://github.com/pyrk/pyrk) — Neutronic and thermal hydraulic reactor transient analysis in 0-D
 - [Research Reactor Simulator](https://github.com/ijs-f8/Research-Reactor-Simulator) — Real-time GUI research reactor simulator based on point kinetics
 
