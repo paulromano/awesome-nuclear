@@ -23,6 +23,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [DRAGON](https://www.polymtl.ca/merlin/) — Lattice code developed by Polytechnique Montreal
 - [FeenoX](https://www.seamplex.com/feenox) — Unstructured finite-element(ish) tool, diffusion and discrete ordinates
 - [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
+- [THOR](https://github.com/NCSU-NCSG/THOR) — Discrete ordinates code using the AHOT-C method on unstructured meshes
 
 ### Codes: Event Generators
 
