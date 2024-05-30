@@ -91,7 +91,7 @@ A curated list of open source projects used in nuclear science and engineering.
 ### System Dynamics
 
 - [OpenModelica](https://github.com/OpenModelica/OpenModelica/) — Environment for modeling and simulating complex dynamic systems
-- [OpenSD] (https://github.com/opensd-dev/opensd) - Finite Volume System Dynamics code 
+- [OpenSD](https://github.com/opensd-dev/opensd) - Finite Volume System Dynamics code 
 
 ## Multiphysics
 
