@@ -79,6 +79,7 @@ A curated list of open source projects used in nuclear science and engineering.
 ## Fuel Cycle
 
 - [Cyclus](https://github.com/cyclus/cyclus) — Nuclear fuel cycle simulator
+- [OpenMCyclus](https://github.com/arfc/openmcyclus) — Depletable reactor archetype using OpenMCs `IndepednentOperator` for fuel cycle simulations in Cyclus.
 
 ## Thermal Hydraulics
 
