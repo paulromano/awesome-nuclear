@@ -36,7 +36,8 @@ A curated list of open source projects used in nuclear science and engineering.
 - [csg2csg](https://github.com/makeclean/csg2csg) — Tool to translate between different CSG types
 - [DAGMC](https://github.com/svalinn/DAGMC) — Direct accelerated geometry Monte Carlo toolkit
 - [KDSource](https://github.com/KDSource/KDSource) - A tool for generating KDE surface sources from Monte Carlo simulations
-- [McCAD](https://github.com/inr-kit/McCAD-Library) — CAD (BRep) to Monte Carlo (CSG) Conversion Tool
+- [McCAD](https://github.com/inr-kit/McCAD-Library) — C++ Library for CAD (BRep) to Monte Carlo (CSG) Conversion
+- [GeoUNED](https://github.com/GEOUNED-org/GEOUNED) - Python - FreeCAD-based - tool to convert from CAD to CSG & CSG to CAD for Monte Carlo transport codes (MCNP & OpenMC)
 - [MCNPTools](https://github.com/lanl/mcnptools) — C++/Python interface and tools for MCNP
 - [MCPL](https://github.com/mctools/mcpl) — Binary file format for storing particle state
 - [MontePy](https://github.com/idaholab/montepy) — Python library to read, edit, and write MCNP files
