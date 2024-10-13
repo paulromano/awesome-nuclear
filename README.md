@@ -109,6 +109,7 @@ A curated list of open source projects used in nuclear science and engineering.
 ## Other
 
 - [ARMI](https://github.com/terrapower/armi) — Reactor analysis automation framework
+- [Dakota](https://github.com/snl-dakota/dakota) — software for optimization and UQ
 - [NRIC Virtual Test Bed](https://github.com/idaholab/virtual_test_bed) — Repository of example challenge problems
 - [PyNE](https://github.com/pyne/pyne) — Python/C++ nuclear engineering toolkit
 - [RAVEN](https://github.com/idaholab/raven) — UQ, regression, PRA, data analysis, and model optimization framework
