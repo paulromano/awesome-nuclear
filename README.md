@@ -19,12 +19,12 @@ A curated list of open source projects used in nuclear science and engineering.
 ### Codes: Deterministic
 
 - [BART](https://github.com/SlaybaughLab/BART) — Finite-element, discrete ordinates code developed by UC-Berkeley
-- [OpenSN](https://open-sn.github.io/opensn/) — Successor to [Chi-Tech](https://github.com/chi-tech/chi-tech), a massively parallel discrete ordinates code developed by Texas A&M
 - [DRAGON](https://www.polymtl.ca/merlin/) — Lattice code developed by Polytechnique Montreal
 - [FeenoX](https://www.seamplex.com/feenox) — Unstructured finite-element(ish) tool, diffusion and discrete ordinates
+- [Gnat](https://github.com/OTU-Centre-for-SMRs/gnat) — A MOOSE-based discrete ordinates and fluid activation solver developed by Ontario Tech
 - [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
+- [OpenSN](https://github.com/open-sn/opensn) — Successor to [Chi-Tech](https://github.com/chi-tech/chi-tech), a massively parallel discrete ordinates code developed by Texas A&M
 - [THOR](https://github.com/NCSU-NCSG/THOR) — Discrete ordinates code using the AHOT-C method on unstructured meshes
-- [Gnat](https://otu-centre-for-smrs.github.io/gnat_docs/) — A MOOSE-based discrete ordinates and fluid activation solver developed by Ontario Tech
 
 ### Codes: Event Generators
 
