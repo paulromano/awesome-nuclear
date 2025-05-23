@@ -91,6 +91,11 @@ A curated list of open source projects used in nuclear science and engineering.
 - [OpenFOAM](https://www.openfoam.com/) — Finite volume CFD code
 - [TrioCFD](https://github.com/cea-trust-platform/TrioCFD-code) — A Computational Fluid Dynamics (CFD) code based on the TRUST platform.
 
+## Fuel Performance
+
+- [SCIANTIX](https://gitlab.com/poliminrg/sciantix) — A fission gas release code for
+  oxide fuels (\*Gitlab account required to access)
+
 ## Multiphysics
 
 - [Aurora](https://github.com/aurora-multiphysics/aurora) — OpenMC wrapped as a MOOSE app
