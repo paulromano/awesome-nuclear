@@ -24,7 +24,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [Gnat](https://github.com/OTU-Centre-for-SMRs/gnat) — A MOOSE-based discrete ordinates and fluid activation solver developed by Ontario Tech
 - [OpenMOC](https://github.com/mit-crpg/openmoc) — Method of characteristics code
 - [OpenSN](https://github.com/open-sn/opensn) — Successor to [Chi-Tech](https://github.com/chi-tech/chi-tech), a massively parallel discrete ordinates code developed by Texas A&M
-- [Scarabée](https://github.com/HunterBelanger/scarabee) — Lattice code developed by Hunter Belanger
+- [Scarabée](https://github.com/scarabee-dev/scarabee) — Lattice physics code and deterministic transport toolbox
 - [THOR](https://github.com/NCSU-NCSG/THOR) — Discrete ordinates code using the AHOT-C method on unstructured meshes
 
 ### Codes: Event Generators
