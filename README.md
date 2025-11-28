@@ -92,6 +92,10 @@ A curated list of open source projects used in nuclear science and engineering.
 - [OpenFOAM](https://www.openfoam.com/) — Finite volume CFD code
 - [TrioCFD](https://github.com/cea-trust-platform/TrioCFD-code) — A Computational Fluid Dynamics (CFD) code based on the TRUST platform.
 
+## Safety Analysis
+
+- [EMRALD](https://github.com/idaholab/EMRALD) — Event Modeling Risk Assessment using Linked Diagrams. It is a software tool for researching the capabilities of dynamic PRA (Probabilistic Risk Assessment).
+
 ## Multiphysics
 
 - [Aurora](https://github.com/aurora-multiphysics/aurora) — OpenMC wrapped as a MOOSE app
