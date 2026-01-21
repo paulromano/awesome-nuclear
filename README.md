@@ -58,6 +58,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [NJOY21](https://github.com/njoy/NJOY21) — Nuclear data processing
 - [Nuclear Data Reader](https://github.com/php1ic/nuclear-data-reader) — C++ library for parsing NUBASE and AME data files
 - [NucML](https://github.com/pedrojrv/nucml) — Machine-learning pipeline for nuclear data evaluation
+- [nuctools](https://github.com/brownjm1968/nuctools) - Experimental nuclear data reduction tools
 - [PapillonNDL](https://github.com/HunterBelanger/papillon-ndl) — C++ / Python library for reading and sampling ACE files
 - [PREPRO](https://www-nds.iaea.org/public/endf/prepro/) — Nuclear data processing
 - [PyNjoy 2012](https://www.polymtl.ca/merlin/pynjoy2012.htm) — Nuclear data processing
