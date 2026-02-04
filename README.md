@@ -86,7 +86,6 @@ A curated list of open source projects used in nuclear science and engineering.
 
 ## Thermal Hydraulics
 
-- [DASSH](https://github.com/dassh-dev/dassh) — Subchannel thermal fluids code for hexagonal assemblies
 - [Nek5000](https://github.com/Nek5000/Nek5000) — Spectral-element CFD code
 - [nekRS](https://github.com/Nek5000/nekRS) — Spectral-element CFD code targeting modern processors and accelerators
 - [OpenFOAM](https://www.openfoam.com/) — Finite volume CFD code
@@ -112,6 +111,7 @@ A curated list of open source projects used in nuclear science and engineering.
 
 - [ARMI](https://github.com/terrapower/armi) — Reactor analysis automation framework
 - [NRIC Virtual Test Bed](https://github.com/idaholab/virtual_test_bed) — Repository of example challenge problems
+- [PyARC](https://code.ornl.gov/neams-workbench/PyARC) - Framework for fast reactor analysis workflows using the extended Argonne Reactor Computation code suite
 - [PyNE](https://github.com/pyne/pyne) — Python/C++ nuclear engineering toolkit
 - [RAVEN](https://github.com/idaholab/raven) — UQ, regression, PRA, data analysis, and model optimization framework
 - [WATTS](https://github.com/watts-dev/watts) — Python-based tool for templated simulations
