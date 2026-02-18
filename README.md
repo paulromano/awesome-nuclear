@@ -107,9 +107,14 @@ A curated list of open source projects used in nuclear science and engineering.
 - [MSRE](https://github.com/openmsr/msre) — Detailed CAD model of the MSRE
 - [SaltProc](https://github.com/arfc/saltproc) — Fuel reprocessing simulation tool
 
+## Fuel performance 
+
+- [OFFBEAT](https://gitlab.com/foam-for-nuclear/offbeat) — three-dimensional finite-volume nuclear fuel performance code based on the OpenFOAM® C++ library
+
 ## Other
 
 - [ARMI](https://github.com/terrapower/armi) — Reactor analysis automation framework
+- [Melkit](https://github.com/manjavacas/melkit) — multi-purpose Python toolkit designed to easily edit and query MELCOR 1.8.6 files
 - [NRIC Virtual Test Bed](https://github.com/idaholab/virtual_test_bed) — Repository of example challenge problems
 - [PyARC](https://code.ornl.gov/neams-workbench/PyARC) — Fast reactor analysis workflows using the Argonne Reactor Computation code suite
 - [PyNE](https://github.com/pyne/pyne) — Python/C++ nuclear engineering toolkit
