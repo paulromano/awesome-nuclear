@@ -113,7 +113,7 @@ A curated list of open source projects used in nuclear science and engineering.
 - [NRIC Virtual Test Bed](https://github.com/idaholab/virtual_test_bed) — Repository of example challenge problems
 - [PyARC](https://code.ornl.gov/neams-workbench/PyARC) — Fast reactor analysis workflows using the Argonne Reactor Computation code suite
 - [PyNE](https://github.com/pyne/pyne) — Python/C++ nuclear engineering toolkit
-- [RadCalc](https://github.com/aijhmin1031-eng/radiation-calc) — Browser-based radiation protection calculators (dose rate with buildup, shielding, decay, MDA) and nuclide reference sheets ([web app](https://radiation-lab.com/calc/))
+- [RadCalc](https://github.com/radiation-lab-dev/radcalc) — Browser-based radiation protection calculators (dose rate with buildup, shielding, decay, MDA) and nuclide reference sheets ([web app](https://radiation-lab.com/calc/))
 - [RAVEN](https://github.com/idaholab/raven) — UQ, regression, PRA, data analysis, and model optimization framework
 - [WATTS](https://github.com/watts-dev/watts) — Python-based tool for templated simulations
 - [LaTeX classes and BibTeX style for ANS publications](https://github.com/paulromano/ans-latex-class)
